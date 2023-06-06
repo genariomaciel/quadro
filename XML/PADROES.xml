@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<padroes>
+  <DiasPadrao>
+    <MeioSemana>2</MeioSemana>
+    <FimSemana>0</FimSemana>
+  </DiasPadrao>
+  <DirigentesSemanais>
+    <Segunda>Luiz C. Angotti</Segunda>
+    <Terça>José R. Cestari</Terça>
+    <Quarta>Israel de Sousa</Quarta>
+    <Quinta>William Nemer</Quinta>
+    <Sexta>Ricardo Matias</Sexta>
+  </DirigentesSemanais>
+  <Grupos>
+    <Grupo>
+      <Nome>GRUPO 1</Nome>
+      <Dirigente>Samuel Lux</Dirigente>
+      <Pessoa>Israel de Sousa</Pessoa>
+      <Pessoa>Aparecido D. Costa</Pessoa>
+      <Pessoa>Augusto Oliveira </Pessoa>
+      <Pessoa>Augusto Oliveira</Pessoa>
+      <Pessoa>Aurea Oliveira</Pessoa>
+
+      <Pessoa>Caroline Verissimo</Pessoa>
+      <Pessoa>Darcy Salerno</Pessoa>
+      <Pessoa>Delurdes C. Lopes</Pessoa>
+      <Pessoa>Ivone Lopes</Pessoa>
+      <Pessoa>Jacira Rocha Farias</Pessoa>
+      <Pessoa>Lucia Costa</Pessoa>
+      <Pessoa>Luciana Veríssimo</Pessoa>
+      <Pessoa>Luisa Oliveira</Pessoa>
+      <Pessoa>Maria Vieira</Pessoa>
+      <Pessoa>Neide Benedita</Pessoa>
+      <Pessoa>Neuli De Souza</Pessoa>
+      <Pessoa>Ramon Pereira</Pessoa>
+      <Pessoa>Renan Pereira</Pessoa>
+      <Pessoa>Renan Veríssimo</Pessoa>
+      <Pessoa>Ricardo C. Matias</Pessoa>
+      <Pessoa>Rony Silva</Pessoa>
+      <Pessoa>Salvador Salerno</Pessoa>
+      <Pessoa>Tatiana Lux</Pessoa>
+
+    </Grupo>
+    <Grupo>
+      <Nome>GRUPO 2</Nome>
+      <Dirigente>Luiz Angotti</Dirigente>
+      <Pessoa>Roberto Dio</Pessoa>
+      <Pessoa>Geraldo Bernardes</Pessoa>
+      <Pessoa>Angela Armansa</Pessoa>
+      <Pessoa>Antônia Dio</Pessoa>
+      <Pessoa>Camila Garcia Guzo</Pessoa>
+      <Pessoa>Cleide Garcia</Pessoa>
+      <Pessoa>Cleunice dos Santos</Pessoa>
+      <Pessoa>Elaine Amaral</Pessoa>
+      <Pessoa>Lais Silva Ribeiro</Pessoa>
+      <Pessoa>Lucas Armansa</Pessoa>
+      <Pessoa>Luiz Amaral</Pessoa>
+      <Pessoa>Miriam Angotti</Pessoa>
+      <Pessoa>Remilton Camapgna</Pessoa>
+      <Pessoa>Rosa Carvalho</Pessoa>
+      <Pessoa>Sílvia Campagna</Pessoa>
+      <Pessoa>Sonia Dio</Pessoa>
+      <Pessoa>Suely Ribeiro</Pessoa>
+      <Pessoa>Vanderlei Armansa</Pessoa>
+
+    </Grupo>
+    <Grupo>
+      <Nome>GRUPO 3</Nome>
+      <Dirigente>Antônio Argeri</Dirigente>
+      <Pessoa>Samyr Montagnini</Pessoa>
+      <Pessoa>Alexandre Lopes</Pessoa>
+      <Pessoa>Anay A. Brandilla</Pessoa>
+      <Pessoa>Aparecida Ferreira</Pessoa>
+      <Pessoa>Arlete Argeri</Pessoa>
+      <Pessoa>Carlos Campagna</Pessoa>
+      <Pessoa>Cristina Rodrigues</Pessoa>
+      <Pessoa>Edinilza Morais</Pessoa>
+      <Pessoa>Irene Soares</Pessoa>
+      <Pessoa>Jaqueline Fatiche</Pessoa>
+      <Pessoa>Lilamar Ferreira</Pessoa>
+      <Pessoa>Lúcio H. Ratondoni</Pessoa>
+      <Pessoa>Luely Souza</Pessoa>
+      <Pessoa>Maria Olímpia</Pessoa>
+      <Pessoa>Mário Cesar</Pessoa>
+      <Pessoa>Mário Pereira</Pessoa>
+      <Pessoa>Renata Montagnini</Pessoa>
+      <Pessoa>Willian Nemer</Pessoa>
+      <Pessoa>Wilson Moreira</Pessoa>
+      <Pessoa>Renan Martins</Pessoa>
+
+    </Grupo>
+    <Grupo>
+      <Nome>GRUPO 4</Nome>
+      <Dirigente>Eduardo Ramos</Dirigente>
+      <Pessoa>José R. Cestari</Pessoa>
+      <Pessoa>Agda Junqueira</Pessoa>
+      <Pessoa>Akemi Yamaguchi</Pessoa>
+      <Pessoa>Akiko Peleggi</Pessoa>
+      <Pessoa>Alceste Junqueira</Pessoa>
+      <Pessoa>Alessandro C. Dias</Pessoa>
+      <Pessoa>Almir Onofre</Pessoa>
+      <Pessoa>Ângela Martins</Pessoa>
+      <Pessoa>Bruna Sanches</Pessoa>
+      <Pessoa>Edna Lúcia</Pessoa>
+      <Pessoa>Fernando Sanches</Pessoa>
+      <Pessoa>Giovanna Saldanha</Pessoa>
+      <Pessoa>Guilherme</Pessoa>
+      <Pessoa>Isabela Monteiro</Pessoa>
+      <Pessoa>Isabela Pelleggi</Pessoa>
+      <Pessoa>Jose Junior</Pessoa>
+      <Pessoa>Lucineia Ramos</Pessoa>
+      <Pessoa>Luiz Monteiro</Pessoa>
+      <Pessoa>Natalina Olimpio</Pessoa>
+      <Pessoa>Nathalie Tavares</Pessoa>
+      <Pessoa>Rosângela Monteiro</Pessoa>
+    </Grupo>
+    <Grupo>
+      <Nome>GRUPO 5</Nome>
+      <Dirigente>Rodrigo Cardoso</Dirigente>
+      <Pessoa>Wilson Ricci</Pessoa>
+      <Pessoa>Bruno Gasparine</Pessoa>
+      <Pessoa>Dinilda Rodrigues</Pessoa>
+      <Pessoa>Edna Ricci</Pessoa>
+      <Pessoa>Eva Conceição</Pessoa>
+      <Pessoa>João Marcio G.</Pessoa>
+      <Pessoa>José Amorim</Pessoa>
+      <Pessoa>Josélia Nicoletti</Pessoa>
+      <Pessoa>Larissa Souza</Pessoa>
+      <Pessoa>Lucas Guilherme</Pessoa>
+      <Pessoa>Marcia Gasparine</Pessoa>
+      <Pessoa>Maria Eva Amorim</Pessoa>
+      <Pessoa>Maria Margarete</Pessoa>
+      <Pessoa>Marta Canesso</Pessoa>
+      <Pessoa>Priscila Gasparine</Pessoa>
+      <Pessoa>Rogério Rodrigues</Pessoa>
+      <Pessoa>Rosana Rabello</Pessoa>
+      <Pessoa>Rosângela Marinheiro</Pessoa>
+      <Pessoa>Santim Estevam</Pessoa>
+      <Pessoa>Simão M. Romero</Pessoa>
+      <Pessoa>Vinicius Canesso</Pessoa>
+
+    </Grupo>
+    <Grupo>
+      <Nome>GRUPO 6</Nome>
+      <Dirigente>Fausto Ricci</Dirigente>
+      <Pessoa>Genário M. Pinto</Pessoa>
+      <Pessoa>Joaquim Barbosa</Pessoa>
+      <Pessoa>Ana Cristina</Pessoa>
+      <Pessoa>Ana Paula</Pessoa>
+      <Pessoa>Ângela Pandolfo</Pessoa>
+      <Pessoa>Catarina Di Simoni</Pessoa>
+      <Pessoa>Daise Moraes</Pessoa>
+      <Pessoa>Darci Pandolfo</Pessoa>
+      <Pessoa>Denísia Moraes</Pessoa>
+      <Pessoa>Fernanda Ricci</Pessoa>
+      <Pessoa>Francisco Pandolfo</Pessoa>
+      <Pessoa>Gerson Bernardes</Pessoa>
+      <Pessoa>Jacy Brito</Pessoa>
+      <Pessoa>João Caetano</Pessoa>
+      <Pessoa>José Marcelino</Pessoa>
+      <Pessoa>Kerolen Cabrera</Pessoa>
+      <Pessoa>Luíza Silva Pinto</Pessoa>
+      <Pessoa>Maria Montagnine</Pessoa>
+      <Pessoa>Maria Rosa Ramos</Pessoa>
+      <Pessoa>Maria Siene</Pessoa>
+      <Pessoa>Sirley Silva</Pessoa>
+
+    </Grupo>
+  </Grupos>
+</padroes>

@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Quadro/v15/.suo
+/.vs/config
+/bin
+/Quadro.csproj.user
+/obj
+/.vs/Quadro/v16
+/.vs/Quadro/v15/Server/sqlite3

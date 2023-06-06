@@ -1,0 +1,221 @@
+﻿body {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+.linha-data ~ .linha-data {
+    margin-top: 10mm;
+}
+
+.linha-data > div {
+    display: inline-block;
+    border-top: 1.3mm solid #333;
+}
+
+.linha-data .fa {
+    display: inline-block;
+    margin-right: 2mm;
+}
+
+.linha-data .linha-data-txt {
+    display: inline-block;
+}
+
+table td {
+    vertical-align: top;
+}
+
+table.ds tr:first-child td {
+    border-top: 0.5mm solid #333;
+    border-color: inherit;
+}
+
+table.ds tr:first-child td:first-child {
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+table.ds tr:first-child td > div {
+    display: inline-block;
+    border-top: 1.3mm solid #333;
+    border-color: inherit;
+    padding-top: 1mm;
+}
+
+table.ds tr:first-child td:first-child .fa {
+    margin-right: 2mm;
+}
+
+table td:first-child {
+    padding-right: 10mm;
+    width: 60%;
+}
+
+table.ds td {
+    padding: 0;
+    white-space: nowrap;
+    font-size: 10pt;
+    min-width: 108px;
+    max-width: 108px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+table.ds-bkp td {
+    padding: 0;
+    padding-right: 6mm;
+    white-space: nowrap;
+    font-size: 10pt;
+    
+}
+
+table.ds tr:not(:first-child) td[rowspan]:first-child {
+    width: 1px;
+    padding-right: 4mm;
+    text-align: center;
+}
+
+table.ds tr td[colspan="6"] {
+    height: 10mm;
+}
+
+table.ds tr.min-height {
+    height: 1px;
+    border: 1mm;
+}
+
+
+
+.d-table {
+    display: table;
+}
+
+.d-table > div {
+    display: table-row;
+}
+
+.d-table > div > div {
+    display: table-cell;
+    padding-right: 10mm;
+}
+
+b.min {
+    font-size: 11pt;
+}
+
+.titulo-secao {
+    font-weight: bold;
+    font-size: 8pt;
+    display: inline-block;
+    background: #333;
+    color: white;
+    padding: 1mm;
+}
+
+    .titulo-secao ~ .titulo-secao {
+        margin-top: 2mm;
+    }
+
+.parte {
+    margin-top: 1.5mm;
+    margin-bottom: 1.5mm;
+}
+
+.parte-titulo {
+    font-weight: bold;
+    font-size: 10.5pt;
+    margin-left: 2mm;
+}
+
+    .parte-titulo::before {
+        content: "\2022";
+        margin-left: -2mm;
+        margin-right: 1mm;
+        display: inline-block;
+    }
+
+    .parte-titulo.inline {
+        display: inline-block;
+    }
+
+.parte-nome {
+    margin-left: 2mm;
+}
+
+.parte-titulo.inline + .parte-nome {
+    display: inline-block;
+}
+
+[data-cor="0"] {
+    background-color: #d8e24c
+}
+
+    [data-cor="0"] ~ .fa {
+        color: #d8e24c
+    }
+
+[data-cor="1"] {
+    background-color: #5A6A70
+}
+
+    [data-cor="1"] ~ .fa {
+        color: #5A6A70
+    }
+
+[data-cor="2"] {
+    background-color: #C18626
+}
+
+    [data-cor="2"] ~ .fa {
+        color: #C18626
+    }
+
+[data-cor="3"] {
+    background-color: #961526
+}
+
+    [data-cor="3"] ~ .fa {
+        color: #961526
+    }
+
+[data-cor="4"] {
+    background-color: #0353aa
+}
+
+    [data-cor="4"] ~ .fa {
+        color: #0353aa
+    }
+
+[data-cor="5"] {
+    background-color: #62e24c
+}
+
+    [data-cor="5"] ~ .fa {
+        color: #62e24c
+    }
+
+@media print {
+
+    @page {
+        size: A4;
+        margin: 0mm 0mm 0mm 0mm;
+    }
+
+    body {
+        margin: 0;
+        -webkit-print-color-adjust: exact;
+    }
+
+    div.A4 {
+        outline: none;
+        padding-left: 10mm;
+        padding-right: 10mm;
+    }
+
+        div.A4:not(:last-child) {
+            page-break-after: always;
+        }
+}
+                    

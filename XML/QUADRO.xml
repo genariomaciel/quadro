@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="QUADRO.xsl"?>
+<root>
+  <config>
+    <mes>8</mes>
+    <ano>2017</ano>
+    <cor1>#00627D</cor1>
+    <cor2>#006C8C</cor2>
+  </config>
+  <padroes>
+    <DiasPadrao>
+      <MeioSemana>2</MeioSemana>
+      <FimSemana>0</FimSemana>
+    </DiasPadrao>
+    <DirigentesSemanais>
+      <Segunda>Luiz C. Angotti</Segunda>
+      <Terça>José R. Cestari</Terça>
+      <Quarta>Israel de Sousa</Quarta>
+      <Quinta>William Nemer</Quinta>
+      <Sexta>Ricardo Matias</Sexta>
+    </DirigentesSemanais>
+    <Grupos>
+      <Grupo>
+        <Nome>GRUPO 1</Nome>
+        <Dirigente>Samuel Lux</Dirigente>
+        <Pessoa>Israel de Sousa</Pessoa>
+        <Pessoa>Aparecido D. Costa</Pessoa>
+        <Pessoa>Augusto Oliveira </Pessoa>
+        <Pessoa>Augusto Oliveira</Pessoa>
+        <Pessoa>Aurea Oliveira</Pessoa>
+        <Pessoa>Caroline Verissimo</Pessoa>
+        <Pessoa>Darcy Salerno</Pessoa>
+        <Pessoa>Delurdes C. Lopes</Pessoa>
+        <Pessoa>Ivone Lopes</Pessoa>
+        <Pessoa>Jacira Rocha Farias</Pessoa>
+        <Pessoa>Lucia Costa</Pessoa>
+        <Pessoa>Luciana Veríssimo</Pessoa>
+        <Pessoa>Luisa Oliveira</Pessoa>
+        <Pessoa>Maria Vieira</Pessoa>
+        <Pessoa>Neide Benedita</Pessoa>
+        <Pessoa>Neuli De Souza</Pessoa>
+        <Pessoa>Ramon Pereira</Pessoa>
+        <Pessoa>Renan Pereira</Pessoa>
+        <Pessoa>Renan Veríssimo</Pessoa>
+        <Pessoa>Ricardo C. Matias</Pessoa>
+        <Pessoa>Rony Silva</Pessoa>
+        <Pessoa>Salvador Salerno</Pessoa>
+        <Pessoa>Tatiana Lux</Pessoa>
+      </Grupo>
+      <Grupo>
+        <Nome>GRUPO 2</Nome>
+        <Dirigente>Luiz Angotti</Dirigente>
+        <Pessoa>Roberto Dio</Pessoa>
+        <Pessoa>Geraldo Bernardes</Pessoa>
+        <Pessoa>Angela Armansa</Pessoa>
+        <Pessoa>Antônia Dio</Pessoa>
+        <Pessoa>Camila Garcia Guzo</Pessoa>
+        <Pessoa>Cleide Garcia</Pessoa>
+        <Pessoa>Cleunice dos Santos</Pessoa>
+        <Pessoa>Elaine Amaral</Pessoa>
+        <Pessoa>Lais Silva Ribeiro</Pessoa>
+        <Pessoa>Lucas Armansa</Pessoa>
+        <Pessoa>Luiz Amaral</Pessoa>
+        <Pessoa>Miriam Angotti</Pessoa>
+        <Pessoa>Remilton Camapgna</Pessoa>
+        <Pessoa>Rosa Carvalho</Pessoa>
+        <Pessoa>Sílvia Campagna</Pessoa>
+        <Pessoa>Sonia Dio</Pessoa>
+        <Pessoa>Suely Ribeiro</Pessoa>
+        <Pessoa>Vanderlei Armansa</Pessoa>
+      </Grupo>
+      <Grupo>
+        <Nome>GRUPO 3</Nome>
+        <Dirigente>Antônio Argeri</Dirigente>
+        <Pessoa>Samyr Montagnini</Pessoa>
+        <Pessoa>Alexandre Lopes</Pessoa>
+        <Pessoa>Anay A. Brandilla</Pessoa>
+        <Pessoa>Aparecida Ferreira</Pessoa>
+        <Pessoa>Arlete Argeri</Pessoa>
+        <Pessoa>Carlos Campagna</Pessoa>
+        <Pessoa>Cristina Rodrigues</Pessoa>
+        <Pessoa>Edinilza Morais</Pessoa>
+        <Pessoa>Irene Soares</Pessoa>
+        <Pessoa>Jaqueline Fatiche</Pessoa>
+        <Pessoa>Lilamar Ferreira</Pessoa>
+        <Pessoa>Lúcio H. Ratondoni</Pessoa>
+        <Pessoa>Luely Souza</Pessoa>
+        <Pessoa>Maria Olímpia</Pessoa>
+        <Pessoa>Mário Cesar</Pessoa>
+        <Pessoa>Mário Pereira</Pessoa>
+        <Pessoa>Renata Montagnini</Pessoa>
+        <Pessoa>Willian Nemer</Pessoa>
+        <Pessoa>Wilson Moreira</Pessoa>
+        <Pessoa>Renan Martins</Pessoa>
+      </Grupo>
+      <Grupo>
+        <Nome>GRUPO 4</Nome>
+        <Dirigente>Eduardo Ramos</Dirigente>
+        <Pessoa>José R. Cestari</Pessoa>
+        <Pessoa>Agda Junqueira</Pessoa>
+        <Pessoa>Akemi Yamaguchi</Pessoa>
+        <Pessoa>Akiko Peleggi</Pessoa>
+        <Pessoa>Alceste Junqueira</Pessoa>
+        <Pessoa>Alessandro C. Dias</Pessoa>
+        <Pessoa>Almir Onofre</Pessoa>
+        <Pessoa>Ângela Martins</Pessoa>
+        <Pessoa>Bruna Sanches</Pessoa>
+        <Pessoa>Edna Lúcia</Pessoa>
+        <Pessoa>Fernando Sanches</Pessoa>
+        <Pessoa>Giovanna Saldanha</Pessoa>
+        <Pessoa>Guilherme</Pessoa>
+        <Pessoa>Isabela Monteiro</Pessoa>
+        <Pessoa>Isabela Pelleggi</Pessoa>
+        <Pessoa>Jose Junior</Pessoa>
+        <Pessoa>Lucineia Ramos</Pessoa>
+        <Pessoa>Luiz Monteiro</Pessoa>
+        <Pessoa>Natalina Olimpio</Pessoa>
+        <Pessoa>Nathalie Tavares</Pessoa>
+        <Pessoa>Rosângela Monteiro</Pessoa>
+      </Grupo>
+      <Grupo>
+        <Nome>GRUPO 5</Nome>
+        <Dirigente>Rodrigo Cardoso</Dirigente>
+        <Pessoa>Wilson Roberto Ricci</Pessoa>
+        <Pessoa>Bruno Gasparine</Pessoa>
+        <Pessoa>Dinilda Rodrigues</Pessoa>
+        <Pessoa>Edna Ricci</Pessoa>
+        <Pessoa>Eva Conceição</Pessoa>
+        <Pessoa>João Marcio G.</Pessoa>
+        <Pessoa>José Amorim</Pessoa>
+        <Pessoa>Josélia Nicoletti</Pessoa>
+        <Pessoa>Larissa Souza</Pessoa>
+        <Pessoa>Lucas Guilherme</Pessoa>
+        <Pessoa>Marcia Gasparine</Pessoa>
+        <Pessoa>Maria Eva Amorim</Pessoa>
+        <Pessoa>Maria Margarete</Pessoa>
+        <Pessoa>Marta Canesso</Pessoa>
+        <Pessoa>Priscila Gasparine</Pessoa>
+        <Pessoa>Rogério Rodrigues</Pessoa>
+        <Pessoa>Rosana Rabello</Pessoa>
+        <Pessoa>Rosângela Marinheiro</Pessoa>
+        <Pessoa>Santim Estevam</Pessoa>
+        <Pessoa>Simão M. Romero</Pessoa>
+        <Pessoa>Vinicius Canesso</Pessoa>
+      </Grupo>
+      <Grupo>
+        <Nome>GRUPO 6</Nome>
+        <Dirigente>Fausto Ricci</Dirigente>
+        <Pessoa>Genário M. Pinto</Pessoa>
+        <Pessoa>Joaquim Barbosa</Pessoa>
+        <Pessoa>Ana Cristina</Pessoa>
+        <Pessoa>Ana Paula</Pessoa>
+        <Pessoa>Ângela Pandolfo</Pessoa>
+        <Pessoa>Catarina Di Simoni</Pessoa>
+        <Pessoa>Daise Moraes</Pessoa>
+        <Pessoa>Darci Pandolfo</Pessoa>
+        <Pessoa>Denísia Moraes</Pessoa>
+        <Pessoa>Fernanda Ricci</Pessoa>
+        <Pessoa>Francisco Pandolfo</Pessoa>
+        <Pessoa>Gerson Bernardes</Pessoa>
+        <Pessoa>Jacy Brito</Pessoa>
+        <Pessoa>João Caetano</Pessoa>
+        <Pessoa>José Marcelino</Pessoa>
+        <Pessoa>Kerolen Cabrera</Pessoa>
+        <Pessoa>Luíza Silva Pinto</Pessoa>
+        <Pessoa>Maria Montagnine</Pessoa>
+        <Pessoa>Maria Rosa Ramos</Pessoa>
+        <Pessoa>Maria Siene</Pessoa>
+        <Pessoa>Sirley Silva</Pessoa>
+      </Grupo>
+    </Grupos>
+  </padroes>
+  <semanas>
+    <Estrutura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Mes>8</Mes>
+      <Data>2017-08-07</Data>
+      <Sabado>2017-08-12</Sabado>
+      <ReuniaoMeioSemana>2017-08-08</ReuniaoMeioSemana>
+      <ReuniaoFimSemana>2017-08-12</ReuniaoFimSemana>
+      <FormatadoMeioSemana>Terça-Feira, 08 de Agosto</FormatadoMeioSemana>
+      <FormatadoFimSemana>Sábado, 12 de Agosto</FormatadoFimSemana>
+      <FormatadoSemana1>Semana de 07 a 13 de Agosto</FormatadoSemana1>
+      <FormatadoSemana2>Dia 07 a 13</FormatadoSemana2>
+      <PrimeiraSemana>false</PrimeiraSemana>
+      <SalaB>false</SalaB>
+      <VisitaSup>false</VisitaSup>
+      <Assembleia>false</Assembleia>
+      <Congresso>true</Congresso>
+      <NVMC_Presidente />
+      <NVMC_DiscursoTema />
+      <NVMC_DiscursoDesignado />
+      <NVMC_Joias />
+      <NVMC_SalaA_Dirigente />
+      <NVMC_SalaA_Leitura />
+      <NVMC_NomePrimeiraParte />
+      <NVMC_SalaA_PrimeiraParteDesignado />
+      <NVMC_SalaA_PrimeiraParteAjudante />
+      <NVMC_NomeSegundaParte />
+      <NVMC_SalaA_SegundaParteDesignado />
+      <NVMC_SalaA_SegundaParteAjudante />
+      <NVMC_NomeTerceiraParte />
+      <NVMC_SalaA_TerceiraParteDesignado />
+      <NVMC_SalaA_TerceiraParteAjudante />
+      <NVMC_SalaB_Dirigente />
+      <NVMC_SalaB_Leitura />
+      <NVMC_SalaB_PrimeiraParteDesignado />
+      <NVMC_SalaB_PrimeiraParteAjudante />
+      <NVMC_SalaB_SegundaParteDesignado />
+      <NVMC_SalaB_SegundaParteAjudante />
+      <NVMC_SalaB_TerceiraParteDesignado />
+      <NVMC_SalaB_TerceiraParteAjudante />
+      <NVMC_Parte1_Dur />
+      <NVMC_Parte1_Tema />
+      <NVMC_Parte1_Designado />
+      <NVMC_Parte2_Dur />
+      <NVMC_Parte2_Tema />
+      <NVMC_Parte2_Designado />
+      <NVMC_Parte3_Dur />
+      <NVMC_Parte3_Tema />
+      <NVMC_Parte3_Designado />
+      <NVMC_EBC_Dirigente />
+      <NVMC_EBC_Leitor />
+      <RP_Presidente />
+      <RP_Discurso_Tema />
+      <RP_Discurso_Orador />
+      <RP_Discurso_Congregacao />
+      <RP_Sentinela_Leitor />
+      <SC_Residencial />
+      <SC_Comercial />
+      <DS_Indicador1 />
+      <DS_Indicador2 />
+      <DS_Som_Mesa />
+      <DS_Som_VolanteFrente />
+      <DS_Som_VolanteFundo />
+      <DS_Brigada_ChefeTurno />
+      <DS_Brigada_Lider />
+      <DS_Brigada_Brigadista1 />
+      <DS_Brigada_Brigadista2 />
+      <DS_Transporte />
+      <DS_Limpeza_Grupo>Grupo n. 1</DS_Limpeza_Grupo>
+      <DS_Limpeza_Dirigente>Samuel Lux</DS_Limpeza_Dirigente>
+    </Estrutura>
+    <Estrutura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Mes>8</Mes>
+      <Data>2017-08-14</Data>
+      <Sabado>2017-08-19</Sabado>
+      <ReuniaoMeioSemana>2017-08-15</ReuniaoMeioSemana>
+      <ReuniaoFimSemana>2017-08-19</ReuniaoFimSemana>
+      <FormatadoMeioSemana>Terça-Feira, 15 de Agosto</FormatadoMeioSemana>
+      <FormatadoFimSemana>Sábado, 19 de Agosto</FormatadoFimSemana>
+      <FormatadoSemana1>Semana de 14 a 20 de Agosto</FormatadoSemana1>
+      <FormatadoSemana2>Dia 14 a 20</FormatadoSemana2>
+      <PrimeiraSemana>false</PrimeiraSemana>
+      <SalaB>false</SalaB>
+      <VisitaSup>false</VisitaSup>
+      <Assembleia>false</Assembleia>
+      <Congresso>false</Congresso>
+      <NVMC_Presidente>Samuel Lux</NVMC_Presidente>
+      <NVMC_DiscursoTema>O vigia tinha uma grande responsabilidade</NVMC_DiscursoTema>
+      <NVMC_DiscursoDesignado>Eduardo Ramos</NVMC_DiscursoDesignado>
+      <NVMC_Joias>Willian Nemer</NVMC_Joias>
+      <NVMC_SalaA_Dirigente>Samuel Lux</NVMC_SalaA_Dirigente>
+      <NVMC_SalaA_Leitura>Salvador Salerno</NVMC_SalaA_Leitura>
+      <NVMC_NomePrimeiraParte />
+      <NVMC_SalaA_PrimeiraParteDesignado />
+      <NVMC_SalaA_PrimeiraParteAjudante />
+      <NVMC_NomeSegundaParte />
+      <NVMC_SalaA_SegundaParteDesignado />
+      <NVMC_SalaA_SegundaParteAjudante />
+      <NVMC_NomeTerceiraParte />
+      <NVMC_SalaA_TerceiraParteDesignado />
+      <NVMC_SalaA_TerceiraParteAjudante />
+      <NVMC_SalaB_Dirigente />
+      <NVMC_SalaB_Leitura />
+      <NVMC_SalaB_PrimeiraParteDesignado />
+      <NVMC_SalaB_PrimeiraParteAjudante />
+      <NVMC_SalaB_SegundaParteDesignado />
+      <NVMC_SalaB_SegundaParteAjudante />
+      <NVMC_SalaB_TerceiraParteDesignado />
+      <NVMC_SalaB_TerceiraParteAjudante />
+      <NVMC_Parte1_Dur>15</NVMC_Parte1_Dur>
+      <NVMC_Parte1_Tema>Esforce-se para ter as qualidades de Jeová : Coragem</NVMC_Parte1_Tema>
+      <NVMC_Parte1_Designado>Ricardo Matias</NVMC_Parte1_Designado>
+      <NVMC_Parte2_Dur />
+      <NVMC_Parte2_Tema />
+      <NVMC_Parte2_Designado />
+      <NVMC_Parte3_Dur />
+      <NVMC_Parte3_Tema />
+      <NVMC_Parte3_Designado />
+      <NVMC_EBC_Dirigente>Geraldo Bernarddes</NVMC_EBC_Dirigente>
+      <NVMC_EBC_Leitor>Fernado Sanches</NVMC_EBC_Leitor>
+      <RP_Presidente>Geraldo Bernardes</RP_Presidente>
+      <RP_Discurso_Tema />
+      <RP_Discurso_Orador />
+      <RP_Discurso_Congregacao />
+      <RP_Sentinela_Leitor>Fernado Sanches</RP_Sentinela_Leitor>
+      <SC_Residencial />
+      <SC_Comercial />
+      <DS_Indicador1>Antonio Argeri</DS_Indicador1>
+      <DS_Indicador2>Fernando anches</DS_Indicador2>
+      <DS_Som_Mesa>Rony</DS_Som_Mesa>
+      <DS_Som_VolanteFrente>Genário</DS_Som_VolanteFrente>
+      <DS_Som_VolanteFundo>Ramon</DS_Som_VolanteFundo>
+      <DS_Brigada_ChefeTurno />
+      <DS_Brigada_Lider />
+      <DS_Brigada_Brigadista1 />
+      <DS_Brigada_Brigadista2 />
+      <DS_Transporte>Genario Maciel</DS_Transporte>
+      <DS_Limpeza_Grupo>Grupo n. 2</DS_Limpeza_Grupo>
+      <DS_Limpeza_Dirigente>Luiz C. Angotti</DS_Limpeza_Dirigente>
+    </Estrutura>
+    <Estrutura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Mes>8</Mes>
+      <Data>2017-08-21</Data>
+      <Sabado>2017-08-26</Sabado>
+      <ReuniaoMeioSemana>2017-08-22</ReuniaoMeioSemana>
+      <ReuniaoFimSemana>2017-08-26</ReuniaoFimSemana>
+      <FormatadoMeioSemana>Terça-Feira, 22 de Agosto</FormatadoMeioSemana>
+      <FormatadoFimSemana>Sábado, 26 de Agosto</FormatadoFimSemana>
+      <FormatadoSemana1>Semana de 21 a 27 de Agosto</FormatadoSemana1>
+      <FormatadoSemana2>Dia 21 a 27</FormatadoSemana2>
+      <PrimeiraSemana>false</PrimeiraSemana>
+      <SalaB>false</SalaB>
+      <VisitaSup>false</VisitaSup>
+      <Assembleia>false</Assembleia>
+      <Congresso>false</Congresso>
+      <NVMC_Presidente>Fausto Ricci</NVMC_Presidente>
+      <NVMC_DiscursoTema>Gogue de Magogue será destruido em breve</NVMC_DiscursoTema>
+      <NVMC_DiscursoDesignado>Ricardo Matias</NVMC_DiscursoDesignado>
+      <NVMC_Joias>José Marcelino</NVMC_Joias>
+      <NVMC_SalaA_Dirigente>Fausto Ricci</NVMC_SalaA_Dirigente>
+      <NVMC_SalaA_Leitura>João Caetano Silva Pinto</NVMC_SalaA_Leitura>
+      <NVMC_NomePrimeiraParte />
+      <NVMC_SalaA_PrimeiraParteDesignado />
+      <NVMC_SalaA_PrimeiraParteAjudante />
+      <NVMC_NomeSegundaParte />
+      <NVMC_SalaA_SegundaParteDesignado />
+      <NVMC_SalaA_SegundaParteAjudante />
+      <NVMC_NomeTerceiraParte />
+      <NVMC_SalaA_TerceiraParteDesignado />
+      <NVMC_SalaA_TerceiraParteAjudante />
+      <NVMC_SalaB_Dirigente />
+      <NVMC_SalaB_Leitura />
+      <NVMC_SalaB_PrimeiraParteDesignado />
+      <NVMC_SalaB_PrimeiraParteAjudante />
+      <NVMC_SalaB_SegundaParteDesignado />
+      <NVMC_SalaB_SegundaParteAjudante />
+      <NVMC_SalaB_TerceiraParteDesignado />
+      <NVMC_SalaB_TerceiraParteAjudante />
+      <NVMC_Parte1_Dur>15</NVMC_Parte1_Dur>
+      <NVMC_Parte1_Tema>Esforce-se para ter as qualidades de Jeová : fé</NVMC_Parte1_Tema>
+      <NVMC_Parte1_Designado>Genário Maciel</NVMC_Parte1_Designado>
+      <NVMC_Parte2_Dur />
+      <NVMC_Parte2_Tema />
+      <NVMC_Parte2_Designado />
+      <NVMC_Parte3_Dur />
+      <NVMC_Parte3_Tema />
+      <NVMC_Parte3_Designado />
+      <NVMC_EBC_Dirigente>José R. Cestari</NVMC_EBC_Dirigente>
+      <NVMC_EBC_Leitor>Rony Mendes</NVMC_EBC_Leitor>
+      <RP_Presidente>Israel de Souza</RP_Presidente>
+      <RP_Discurso_Tema />
+      <RP_Discurso_Orador />
+      <RP_Discurso_Congregacao />
+      <RP_Sentinela_Leitor>José Junior</RP_Sentinela_Leitor>
+      <SC_Residencial />
+      <SC_Comercial />
+      <DS_Indicador1>Fausto Ricci </DS_Indicador1>
+      <DS_Indicador2>Almir Onofre</DS_Indicador2>
+      <DS_Som_Mesa>Rogério</DS_Som_Mesa>
+      <DS_Som_VolanteFrente>Vinicius</DS_Som_VolanteFrente>
+      <DS_Som_VolanteFundo>Lucas</DS_Som_VolanteFundo>
+      <DS_Brigada_ChefeTurno />
+      <DS_Brigada_Lider />
+      <DS_Brigada_Brigadista1 />
+      <DS_Brigada_Brigadista2 />
+      <DS_Transporte>Fausto</DS_Transporte>
+      <DS_Limpeza_Grupo>Grupo n. 3</DS_Limpeza_Grupo>
+      <DS_Limpeza_Dirigente>Antonio Argeri</DS_Limpeza_Dirigente>
+    </Estrutura>
+    <Estrutura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <Mes>8</Mes>
+      <Data>2017-08-28</Data>
+      <Sabado>2017-09-02</Sabado>
+      <ReuniaoMeioSemana>2017-08-29</ReuniaoMeioSemana>
+      <ReuniaoFimSemana>2017-09-02</ReuniaoFimSemana>
+      <FormatadoMeioSemana>Terça-Feira, 29 de Agosto</FormatadoMeioSemana>
+      <FormatadoFimSemana>Sábado, 02 de Setembro</FormatadoFimSemana>
+      <FormatadoSemana1>Semana de 28 de Agosto a 03 de Setembro</FormatadoSemana1>
+      <FormatadoSemana2>Dia 28 a 03/09</FormatadoSemana2>
+      <PrimeiraSemana>false</PrimeiraSemana>
+      <SalaB>false</SalaB>
+      <VisitaSup>false</VisitaSup>
+      <Assembleia>false</Assembleia>
+      <Congresso>false</Congresso>
+      <NVMC_Presidente>Luiz C. Angotti</NVMC_Presidente>
+      <NVMC_DiscursoTema>A incrivel visão de Ezequiel sobre o templo</NVMC_DiscursoTema>
+      <NVMC_DiscursoDesignado>Samuel Lux</NVMC_DiscursoDesignado>
+      <NVMC_Joias>Rodrigo Souza</NVMC_Joias>
+      <NVMC_SalaA_Dirigente>Luiz C. Angotti</NVMC_SalaA_Dirigente>
+      <NVMC_SalaA_Leitura>Romon de Alencar Pereira</NVMC_SalaA_Leitura>
+      <NVMC_NomePrimeiraParte />
+      <NVMC_SalaA_PrimeiraParteDesignado />
+      <NVMC_SalaA_PrimeiraParteAjudante />
+      <NVMC_NomeSegundaParte />
+      <NVMC_SalaA_SegundaParteDesignado />
+      <NVMC_SalaA_SegundaParteAjudante />
+      <NVMC_NomeTerceiraParte />
+      <NVMC_SalaA_TerceiraParteDesignado />
+      <NVMC_SalaA_TerceiraParteAjudante />
+      <NVMC_SalaB_Dirigente />
+      <NVMC_SalaB_Leitura />
+      <NVMC_SalaB_PrimeiraParteDesignado />
+      <NVMC_SalaB_PrimeiraParteAjudante />
+      <NVMC_SalaB_SegundaParteDesignado />
+      <NVMC_SalaB_SegundaParteAjudante />
+      <NVMC_SalaB_TerceiraParteDesignado />
+      <NVMC_SalaB_TerceiraParteAjudante />
+      <NVMC_Parte1_Dur>15</NVMC_Parte1_Dur>
+      <NVMC_Parte1_Tema>Em que mês vou sair de pioneiro auxiliar?</NVMC_Parte1_Tema>
+      <NVMC_Parte1_Designado>Antonio Argeri</NVMC_Parte1_Designado>
+      <NVMC_Parte2_Dur />
+      <NVMC_Parte2_Tema />
+      <NVMC_Parte2_Designado />
+      <NVMC_Parte3_Dur />
+      <NVMC_Parte3_Tema />
+      <NVMC_Parte3_Designado />
+      <NVMC_EBC_Dirigente>Eduardo Ramos</NVMC_EBC_Dirigente>
+      <NVMC_EBC_Leitor>Ricardo Matias</NVMC_EBC_Leitor>
+      <RP_Presidente>Rodrigo de Souza</RP_Presidente>
+      <RP_Discurso_Tema />
+      <RP_Discurso_Orador />
+      <RP_Discurso_Congregacao />
+      <RP_Sentinela_Leitor>Genario Maciel</RP_Sentinela_Leitor>
+      <SC_Residencial />
+      <SC_Comercial />
+      <DS_Indicador1>Luiz C. Angotti</DS_Indicador1>
+      <DS_Indicador2>Vanderlei Armansa</DS_Indicador2>
+      <DS_Som_Mesa>Alexandre</DS_Som_Mesa>
+      <DS_Som_VolanteFrente>Samyr</DS_Som_VolanteFrente>
+      <DS_Som_VolanteFundo>Ricardo</DS_Som_VolanteFundo>
+      <DS_Brigada_ChefeTurno />
+      <DS_Brigada_Lider />
+      <DS_Brigada_Brigadista1 />
+      <DS_Brigada_Brigadista2 />
+      <DS_Transporte>Samyr</DS_Transporte>
+      <DS_Limpeza_Grupo>Lingua Inglesa</DS_Limpeza_Grupo>
+      <DS_Limpeza_Dirigente />
+    </Estrutura>
+  </semanas>
+</root>
